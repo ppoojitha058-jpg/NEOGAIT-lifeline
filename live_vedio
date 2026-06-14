@@ -10,8 +10,8 @@
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
 
-#define BOTtoken "8625832950:AAFj0jPh0C47JvpuWzRaokrP4AXwvrQs4w8"
-#define CHAT_ID "7597859857"
+#define BOTtoken "862xxxxxxxxFj0jPh0C47JvpuWzRaokrP4AXwvrQs4w8"
+#define CHAT_ID "75947574857"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
@@ -26,7 +26,7 @@ const int MPU_ADDR = 0x68;
 #define TXD2 17
 
 const char* ssid = "Galaxy A35 5G 969A";
-const char* password = "password";
+const char* password = "word";
 
 float FALL_THRESHOLD = 2.5;
 
