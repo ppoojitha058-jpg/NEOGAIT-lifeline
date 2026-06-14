@@ -16,8 +16,8 @@ const int MPU_ADDR = 0x68;
 #define TXD2 17
 
 const char* ssid = "Galaxy A35 5G 969A";
-const char* password = "password";
-const char* apiKey = "o.GhPIdzxSNcJYOntgS63EORIDR8GVOuqH";
+const char* password = "word";
+const char* apiKey = "o.GhPIdzntg8GVOuqH";
 
 float FALL_THRESHOLD = 1.5; 
 
